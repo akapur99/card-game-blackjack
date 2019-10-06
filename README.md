@@ -33,8 +33,11 @@ I didn't use any complex data structures such as `trees`, `dictionaries`
 ## Modules
 
 `__main__` : Driver code which runs the game
+
 `helpers` : Contain useful helper functions
+
 `deck` : Contains `deck` class 
+
 `person` : Contains `Person` class 
 
 ## Pseudo code for logic/algorithmic flow
