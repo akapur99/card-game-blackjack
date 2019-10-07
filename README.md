@@ -30,6 +30,13 @@ I didn't use any complex data structures such as `trees`, `dictionaries`
  9, I didn't think it was necessary. Also I needed to 'randomly' shuffle the 
  card deck, which was easy with a `list`.
 
+**Note about Game Design**:
+I've never played Black Jack before, and based most of the game instructions
+ on an article. I've realised a little late that splitting is a part of the 
+ game hence I wasn't able to include it. Also, I made the game single player,
+ although given the design of the program, it would be pretty simple to allow
+ multiple players.
+
 ## Modules
 
 `__main__` : Driver code which runs the game
